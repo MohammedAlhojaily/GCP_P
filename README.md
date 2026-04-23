@@ -10,4 +10,4 @@ This version runs as:
 - OPENWEATHER_API_KEY
 - GCP_PROJECT_ID
 - BQ_DATASET
-- BQ_TABLE
+- BQ_TABLE"# GCP_P" 
