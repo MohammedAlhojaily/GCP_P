@@ -1,0 +1,13 @@
+[
+  { "name": "city", "type": "STRING", "mode": "REQUIRED" },
+  { "name": "country_code", "type": "STRING", "mode": "REQUIRED" },
+  { "name": "temperature_c", "type": "FLOAT", "mode": "NULLABLE" },
+  { "name": "humidity", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "weather_description", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "weather_main", "type": "STRING", "mode": "NULLABLE" },
+  { "name": "pressure", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "wind_speed", "type": "FLOAT", "mode": "NULLABLE" },
+  { "name": "cloudiness", "type": "INTEGER", "mode": "NULLABLE" },
+  { "name": "observed_at_utc", "type": "TIMESTAMP", "mode": "REQUIRED" },
+  { "name": "source", "type": "STRING", "mode": "REQUIRED" }
+]
